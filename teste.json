@@ -1,0 +1,34 @@
+[   
+    {
+    "nome": "Gabrielle",
+    "idade": 35,
+    "esta_trabalhando": true,
+    "detalhes_profissao": {
+        "profissao": "Programador",
+        "empresa": "Empresa x"
+    },
+    "hobbies": ["Ler", "Jogar", "Cantar"]
+    },
+
+    {
+    "nome": "Maria",
+    "idade": 30,
+    "esta_trabalhando": false,
+    "detalhes_profissao": {
+        "profissao": null,
+        "empresa": null
+    },
+    "hobbies": ["Ler", "Cantar"]
+    },
+
+    {
+    "nome": "Paulo",
+    "idade": 35,
+    "esta_trabalhando": true,
+    "detalhes_profissao": {
+        "profissao": "Mecanico",
+        "empresa": "Empresa2"
+    },
+    "hobbies": ["Carros", "Musculacao"]
+    }
+]
